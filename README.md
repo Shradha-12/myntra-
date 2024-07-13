@@ -45,7 +45,6 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 - **Deployment**: AWS/GCP/Azure
 
 ## Website and application Glimpses
-Here are some glimpses of the website:
 
 ### Home Page
 ![Screenshot 2024-07-13 191714](https://github.com/user-attachments/assets/e092e08d-35f3-4299-8ffb-c1cc497ede9b)
