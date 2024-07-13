@@ -48,17 +48,31 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 Here are some glimpses of the website:
 
 ### Home Page
-![Home Page]
+![Screenshot 2024-07-13 191714](https://github.com/user-attachments/assets/e092e08d-35f3-4299-8ffb-c1cc497ede9b)
+
+![Screenshot 2024-07-13 191732](https://github.com/user-attachments/assets/f1d6a9c7-71db-4b86-87c7-6af04564d0e8)
+
+![Screenshot 2024-07-13 192346](https://github.com/user-attachments/assets/7d14db23-1515-49a3-a469-62687e06ff2d)
+![Screenshot 2024-07-13 192400](https://github.com/user-attachments/assets/0236df18-f687-4ff8-8cb0-763c2f36c9f2)
+
+
 
 ### My Wardrobe Feature
-![My Wardrobe]
+![Screenshot 2024-07-13 191747](https://github.com/user-attachments/assets/b5bd90e4-cbf2-42bb-82fc-61c5e260a94b)
 
-### Blended Wardrobe
-![Blended Wardrobe]
+![Screenshot 2024-07-13 192438](https://github.com/user-attachments/assets/535df150-bad2-4394-835e-d61616fbefda)
+![Screenshot 2024-07-13 192507](https://github.com/user-attachments/assets/4bb30cde-dbf7-48da-acf6-8c1279a42dca)
+
+## Matching score 
+![Screenshot 2024-07-13 192455](https://github.com/user-attachments/assets/2859d2b4-dac8-48fa-a43f-868ed48659ed)
+
 
 
 ## Implementation
+![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
 
+
+![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
 
 1. **Frontend Development**: Building a responsive and user-friendly interface with ReactJS for organizing wardrobes and collaborating on fashion ideas.
 2. **Backend Development**: Setting up a Node.js server with Express to handle API requests, manage user data, and integrate with Myntra APIs.
