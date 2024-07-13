@@ -1,4 +1,4 @@
-![top1](https://github.com/user-attachments/assets/b5f65fc9-8758-4533-97e2-61c12e806dfe)# My Wardrobe 
+# My Wardrobe 
 A personalized fashion management and collaboration feature within the Myntra app.
 
 ## Index
