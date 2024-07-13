@@ -16,10 +16,10 @@ A personalized fashion management and collaboration feature within the Myntra ap
 Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living in a bustling urban city, Zoe is always on top of the latest trends. However, she faces a challenge many fashion enthusiasts can relate to: managing a vast wardrobe while staying fashionable and sustainable. Zoe inspired us to create a solution that brings order to the chaos and fun to fashion collaboration.
 
 ## Problem Faced
-1. **Wardrobe Chaos**: Zoe's wardrobe is bursting with clothes, yet she struggles to keep it organized, making it hard to find the perfect outfit.
-2. **Decision Fatigue**: With so many options, choosing what to wear becomes a daunting task, often leading to frustration.
-3. **Trend Anxiety**: Zoe loves staying on-trend but doesn't want to constantly buy new clothes to do so.
-4. **Collaboration Crave**: Zoe enjoys brainstorming fashion ideas with friends but lacks a dedicated platform to collaborate effectively.
+1. **Wardrobe Chaos**: Many of us have closets overflowing with clothes, making it tough to find the perfect outfit quickly.
+2. **Decision Fatigue**: Too many choices can be overwhelming, turning the simple task of picking an outfit into a stressful decision.
+3. **Trend Anxiety**: Keeping up with the latest trends can feel like a never-ending race, especially if you don't want to keep buying new clothes.
+4. **Collaboration Crave**: Sharing fashion ideas with friends is fun, but without a dedicated platform, it can be tricky and inefficient.
 
 ## Solution
 Introducing Myntra's My Wardrobe, your ultimate fashion management and collaboration tool. It's not just about organizing your clothes—it's about transforming your fashion experience into something magical, social, and effortlessly stylish.
