@@ -5,13 +5,12 @@ A personalized fashion management and collaboration feature within the Myntra ap
 1. [Inspiration](#inspiration)
 2. [Problem Faced](#problem-faced)
 3. [Solution](#solution)
-4. [User Persona](#user-persona)
-5. [User Journey](#user-journey)
-6. [Features](#features)
-7. [Tech Stack](#tech-stack)
-8. [Website Glimpses](#website-glimpses)
-9. [Implementation](#implementation)
-10. [Future Scope](#future-scope)
+6. [Key Features](#features)
+7. [Your goals , our mission](#Your-goals,our-mission)
+8. [Tech Stack](#tech-stack)
+9. [Website Glimpses](#website-glimpses)
+10. [Implementation](#implementation)
+11. [Future Scope](#future-scope)
 
 ## Inspiration
 Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living in a bustling urban city, Zoe is always on top of the latest trends. However, she faces a challenge many fashion enthusiasts can relate to: managing a vast wardrobe while staying fashionable and sustainable. Zoe inspired us to create a solution that brings order to the chaos and fun to fashion collaboration.
@@ -25,7 +24,7 @@ Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living
 ## Solution
 Introducing Myntra's My Wardrobe, your ultimate fashion management and collaboration tool. It's not just about organizing your clothes—it's about transforming your fashion experience into something magical, social, and effortlessly stylish.
 
-### Key Solutions
+### Key Features
 1. **Wardrobe Capsules**: Create and name your wardrobe capsules, categorize your items, and access them easily. Imagine having a ‘Party Wear’ capsule next to a ‘Gym Gear’ one, each tailored to your unique style.
 2. **Social Sharing**: Share your curated wardrobes on Myntra Minis and other social media platforms. Inspire others and get inspired by the fashion community.
 3. **Blended Wardrobes**: Use the 'Blend Wardrobe' feature to combine your wardrobe with friends. Mix and match outfits to create stunning new looks together.
@@ -36,13 +35,6 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 - Discover new outfit combinations.
 - Collaborate on fashion projects with friends.
 - Receive personalized fashion recommendations.
-
-## User Journey
-1. **Login & Explore**: Zoe logs into the Myntra App and heads straight to the My Wardrobe feature under the Xplore section.
-2. **Create Capsules**: She adds products to her wardrobe capsules, each with a unique name.
-3. **Categorize & Share**: Zoe creates several wardrobes for different occasions and shares them on Myntra Minis and other social media platforms.
-4. **Browse & Follow**: Zoe can view her own 'My Wardrobe' and explore popular influencers' wardrobes, following those that inspire her.
-5. **Collaborate with Friends**: She collaborates with her best friend Emma using the 'Blend Wardrobe' feature, creating new outfits and receiving a fashion similarity score.
 
 ## Tech Stack
 - **Frontend**: ReactJS, HTML, CSS
