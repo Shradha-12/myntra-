@@ -44,7 +44,7 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 - **APIs**: Myntra APIs for product data
 - **Deployment**: AWS/GCP/Azure
 
-## Website Glimpses
+## Website and application Glimpses
 Here are some glimpses of the website:
 
 ### Home Page
