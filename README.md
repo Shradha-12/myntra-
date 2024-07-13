@@ -52,18 +52,18 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 ![Screenshot 2024-07-13 191732](https://github.com/user-attachments/assets/f1d6a9c7-71db-4b86-87c7-6af04564d0e8)
 
 ![Screenshot 2024-07-13 192346](https://github.com/user-attachments/assets/7d14db23-1515-49a3-a469-62687e06ff2d)
-![Screenshot 2024-07-13 192400](https://github.com/user-attachments/assets/0236df18-f687-4ff8-8cb0-763c2f36c9f2)
+![Screenshot 2024-07-13 194101](https://github.com/user-attachments/assets/1647bbb3-6bd1-4491-989b-a2c10933e9cc)
 
 
 
 ### My Wardrobe Feature
 ![Screenshot 2024-07-13 191747](https://github.com/user-attachments/assets/b5bd90e4-cbf2-42bb-82fc-61c5e260a94b)
 
-![Screenshot 2024-07-13 192438](https://github.com/user-attachments/assets/535df150-bad2-4394-835e-d61616fbefda)
-![Screenshot 2024-07-13 192507](https://github.com/user-attachments/assets/4bb30cde-dbf7-48da-acf6-8c1279a42dca)
+![Screenshot 2024-07-13 194002](https://github.com/user-attachments/assets/01a0513a-e1da-4674-8971-1e442b6f7595)
 
 ## Matching score 
-![Screenshot 2024-07-13 192455](https://github.com/user-attachments/assets/2859d2b4-dac8-48fa-a43f-868ed48659ed)
+![Screenshot 2024-07-13 194021](https://github.com/user-attachments/assets/e38bf753-6f4c-46f8-8471-3ed3a9af025c)
+
 
 
 
