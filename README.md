@@ -30,19 +30,11 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 3. **Blended Wardrobes**: Use the 'Blend Wardrobe' feature to combine your wardrobe with friends. Mix and match outfits to create stunning new looks together.
 4. **Fashion Similarity Score**: Discover how your fashion choices align with your friends’. Make fashion a fun, social activity by seeing how well your styles mesh.
 
-### Your Goals, Our Mission
-- Keep her wardrobe organized and stylish.
-- Discover new outfit combinations.
-- Collaborate on fashion projects with friends.
-- Receive personalized fashion recommendations.
+   ## Implementation
+![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
 
-## Tech Stack
-- **Frontend**: ReactJS, HTML, CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: Firebase Authentication
-- **APIs**: Myntra APIs for product data
-- **Deployment**: AWS/GCP/Azure
+
+![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
 
 ## Website and application Glimpses
 
@@ -64,21 +56,6 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 ## Matching score 
 ![Screenshot 2024-07-13 194021](https://github.com/user-attachments/assets/e38bf753-6f4c-46f8-8471-3ed3a9af025c)
 
-
-
-
-## Implementation
-![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
-
-
-![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
-
-1. **Frontend Development**: Building a responsive and user-friendly interface with ReactJS for organizing wardrobes and collaborating on fashion ideas.
-2. **Backend Development**: Setting up a Node.js server with Express to handle API requests, manage user data, and integrate with Myntra APIs.
-3. **Database Management**: Using MongoDB to store user data, wardrobe information, and collaboration details.
-4. **Authentication**: Implementing Firebase Authentication for secure user login and registration.
-5. **API Integration**: Fetching product data from Myntra APIs and updating the wardrobe and similarity score based on user activities.
-6. **Deployment**: Deploying the application on a cloud platform like AWS, GCP, or Azure for scalability and reliability.
 
 ## Future Scope
 - **Enhanced Personalization**: Implementing machine learning algorithms to offer more personalized fashion recommendations.
