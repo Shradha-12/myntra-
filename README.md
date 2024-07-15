@@ -26,7 +26,6 @@ Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living
 ## Solution
 Introducing Myntra's My Wardrobe, your ultimate fashion management and collaboration tool. It's not just about organizing your clothes—it's about transforming your fashion experience into something magical, social, and effortlessly stylish.
 
-I would highly urge you to checkout our [complete pitch deck](./ .pdf) to understand all the componenets of the solution and it's implementation.
 
 ### Key Features
 1. **Wardrobe Capsules**: Create and name your wardrobe capsules, categorize your items, and access them easily. Imagine having a ‘Party Wear’ capsule next to a ‘Gym Gear’ one, each tailored to your unique style.
@@ -35,6 +34,8 @@ I would highly urge you to checkout our [complete pitch deck](./ .pdf) to unders
 4. **Fashion Similarity Score**: Discover how your fashion choices align with your friends’. Make fashion a fun, social activity by seeing how well your styles mesh.
 
    ## Implementation
+I would highly urge you to checkout our [complete pitch deck](./ .pdf) to understand all the componenets of the solution and it's implementation.
+   
 ![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
 
 ![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
