@@ -10,7 +10,7 @@ A personalized fashion management and collaboration feature within the Myntra ap
 3. [Solution](#solution)
 6. [Key Features](#Key-Features)
 7. [Implementation](#implementation)
-8. [Website Glimpses](#website-Glimpses)
+8. [Website Glimpses](#Website-Glimpses)
 9. [Techstack](#Techstack)
 10. [Future Scope](#future-scope)
 
