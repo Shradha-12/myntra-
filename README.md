@@ -8,9 +8,9 @@ A personalized fashion management and collaboration feature within the Myntra ap
 1. [Inspiration](#inspiration)
 2. [Problem Faced](#problem-faced)
 3. [Solution](#solution)
-6. [Key Features](#features)
+6. [Key Features](#Key-Features)
 7. [Implementation](#implementation)
-8. [Website Glimpses](#website-glimpses)
+8. [Website Glimpses](#website-Glimpses)
 9. [Techstack](#Techstack)
 10. [Future Scope](#future-scope)
 
