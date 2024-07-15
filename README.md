@@ -1,3 +1,6 @@
+# Myntra Hackerramp
+This is team 'Devdivas' submission for 'Myntra Hackerramp 2024'
+
 # My Wardrobe 
 A personalized fashion management and collaboration feature within the Myntra app.
 
@@ -6,11 +9,10 @@ A personalized fashion management and collaboration feature within the Myntra ap
 2. [Problem Faced](#problem-faced)
 3. [Solution](#solution)
 6. [Key Features](#features)
-7. [Your goals , our mission](#Your-goals,our-mission)
-8. [Tech Stack](#tech-stack)
-9. [Website Glimpses](#website-glimpses)
-10. [Implementation](#implementation)
-11. [Future Scope](#future-scope)
+7. [Implementation](#implementation)
+8. [Website Glimpses](#website-glimpses)
+9. [Techstack](#Techstack)
+10. [Future Scope](#future-scope)
 
 ## Inspiration
 Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living in a bustling urban city, Zoe is always on top of the latest trends. However, she faces a challenge many fashion enthusiasts can relate to: managing a vast wardrobe while staying fashionable and sustainable. Zoe inspired us to create a solution that brings order to the chaos and fun to fashion collaboration.
@@ -24,6 +26,8 @@ Meet Zoe, a spirited 22-year-old college student with a love for fashion. Living
 ## Solution
 Introducing Myntra's My Wardrobe, your ultimate fashion management and collaboration tool. It's not just about organizing your clothes—it's about transforming your fashion experience into something magical, social, and effortlessly stylish.
 
+I would highly urge you to checkout our [complete pitch deck](./ .pdf) to understand all the componenets of the solution and it's implementation.
+
 ### Key Features
 1. **Wardrobe Capsules**: Create and name your wardrobe capsules, categorize your items, and access them easily. Imagine having a ‘Party Wear’ capsule next to a ‘Gym Gear’ one, each tailored to your unique style.
 2. **Social Sharing**: Share your curated wardrobes on Myntra Minis and other social media platforms. Inspire others and get inspired by the fashion community.
@@ -33,8 +37,9 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
    ## Implementation
 ![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
 
-
 ![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
+
+### Website Link 
 
 ## Website and application Glimpses
 
@@ -43,25 +48,20 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 
 ![Screenshot 2024-07-13 191732](https://github.com/user-attachments/assets/f1d6a9c7-71db-4b86-87c7-6af04564d0e8)
 
-![Screenshot 2024-07-13 194101](https://github.com/user-attachments/assets/1647bbb3-6bd1-4491-989b-a2c10933e9cc)
-
-
-
 ### My Wardrobe Feature
 ![Screenshot 2024-07-13 191747](https://github.com/user-attachments/assets/b5bd90e4-cbf2-42bb-82fc-61c5e260a94b)
 
-![Screenshot 2024-07-13 192438](https://github.com/user-attachments/assets/6112751f-4e9f-41b6-a765-747c4b29f9f1)
-![Screenshot 2024-07-13 194002](https://github.com/user-attachments/assets/01a0513a-e1da-4674-8971-1e442b6f7595)
-
 ## Matching score 
-![Screenshot 2024-07-13 194021](https://github.com/user-attachments/assets/e38bf753-6f4c-46f8-8471-3ed3a9af025c)
 
+## Techstack
+- **Frontend**: ReactJS, HTML, CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Authentication**: Firebase Authentication
 
 ## Future Scope
 - **Enhanced Personalization**: Implementing machine learning algorithms to offer more personalized fashion recommendations.
-- **Virtual Try-On**: Adding an augmented reality feature for virtual outfit try-ons.
 - **Expanded Collaboration Features**: Allowing users to collaborate on fashion projects, create challenges, and vote on outfit ideas.
 - **Sustainability Insights**: Offering insights into the sustainability of users’ wardrobe choices and suggesting eco-friendly alternatives.
-- **Integration with More Platforms**: Expanding integration with other e-commerce platforms for a broader range of products for wardrobe curation.
 
 With Myntra’s My Wardrobe, Zoe's fashion journey transforms into an organized, stylish, and socially engaging experience. Fashion is no longer a solitary endeavor; it’s a collaborative adventure.
