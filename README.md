@@ -41,7 +41,7 @@ I would highly urge you to checkout our [complete pitch deck](./ .pdf) to unders
 
 ### Website Link 
 
-## Website and application Glimpses
+## Website Glimpses
 
 ### Home Page
 ![Screenshot 2024-07-13 191714](https://github.com/user-attachments/assets/e092e08d-35f3-4299-8ffb-c1cc497ede9b)
