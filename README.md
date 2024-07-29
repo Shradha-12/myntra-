@@ -1,8 +1,8 @@
 # Myntra Hackerramp
-This is team 'Devdivas' submission for 'Myntra Hackerramp 2024'
+This is team `Devdivas` submission for `Myntra Hackerramp 2024`
 
 # My Wardrobe 
-A personalized fashion management and collaboration feature within the Myntra app.
+Welcome to **My Wardrobe** – your go-to feature for collaborative fashion and staying on top of the latest trends. Create, share, and blend wardrobes with friends to make fashion a social and interactive experience!
 
 ## Index
 1. [Inspiration](#inspiration)
@@ -10,7 +10,7 @@ A personalized fashion management and collaboration feature within the Myntra ap
 3. [Solution](#solution)
 6. [Key Features](#Key-Features)
 7. [Implementation](#implementation)
-8. [Website Glimpses](#Website-Glimpses)
+8. [Demo](#Demo)
 9. [Techstack](#Techstack)
 10. [Future Scope](#future-scope)
 
@@ -33,27 +33,15 @@ Introducing Myntra's My Wardrobe, your ultimate fashion management and collabora
 3. **Blended Wardrobes**: Use the 'Blend Wardrobe' feature to combine your wardrobe with friends. Mix and match outfits to create stunning new looks together.
 4. **Fashion Similarity Score**: Discover how your fashion choices align with your friends’. Make fashion a fun, social activity by seeing how well your styles mesh.
 
-   ## Implementation
-I would highly urge you to checkout our [complete pitch deck](./ .pdf) to understand all the componenets of the solution and it's implementation.
-   
-![Screenshot 2024-07-13 192019](https://github.com/user-attachments/assets/9d77baf9-3283-4343-9290-26b85ce81a99)
+ ## Implementation
+Firstly, the Ultimate User graph for each user is made by mapping their fashion preferences, wardrobe choices, searches, purchases and other app interactions internally to metadata tags. The graph utilises these metadata tags as graph nodes, while the edge weights are calculated based on user's affinity for products of each metadata type.We would highly urge you to checkout our [complete pitch deck](https://drive.google.com/file/d/1Jx8SZ29iNiPXzBeavMATckn7_L-EEtNB/view?usp=drive_link) to understand all the components of the solution and its implementation.
 
-![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)
+![Screenshot 2024-07-13 192045](https://github.com/user-attachments/assets/c264a481-4d9c-42a8-a48a-ae27a308edc1)   
+![image](https://github.com/user-attachments/assets/5ab50b44-0b26-4a91-aa62-dc70dbe9b255)
 
-### Website Link 
 
-## Website Glimpses
-
-### Home Page
-![Screenshot 2024-07-13 191714](https://github.com/user-attachments/assets/e092e08d-35f3-4299-8ffb-c1cc497ede9b)
-
-![Screenshot 2024-07-13 191732](https://github.com/user-attachments/assets/f1d6a9c7-71db-4b86-87c7-6af04564d0e8)
-
-### My Wardrobe Feature
-![Screenshot 2024-07-13 191747](https://github.com/user-attachments/assets/b5bd90e4-cbf2-42bb-82fc-61c5e260a94b)
-
-## Matching score 
-
+## Demo
+[Attached video](https://drive.google.com/file/d/1VUb2-Tsf366Q38SVwQTMuRbzU6tQF23M/view?usp=drive_link)
 ## Techstack
 - **Frontend**: ReactJS, HTML, CSS
 - **Backend**: Node.js, Express
